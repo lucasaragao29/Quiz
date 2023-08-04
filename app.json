@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "quiz",
+    "slug": "quiz",
+    "extra": {
+      "eas": {
+        "projectId": "1fd2fb43-af42-480e-b7c4-bcaae76c1246"
+      }
+    }, 
+    "icon": "./app/image/recicle.png",
+    "splash": {
+      "image": "./app/image/recicle.png",
+      "resizeMode": "contain",
+      "backgroundColor": "rgb(106,219,219)"
+    },
+    "android": {
+      "package": "com.aragao2904.quiz"
+    }
+  }
+}
